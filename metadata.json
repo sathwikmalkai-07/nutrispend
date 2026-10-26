@@ -1,0 +1,6 @@
+{
+  "name": "NutriBudget AI",
+  "description": "Smart food, nutrition and meal expense analyzer for students to eat healthy while staying within their daily and weekly budget.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
